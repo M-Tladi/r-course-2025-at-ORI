@@ -15,6 +15,7 @@ counts_per_species <- plyr::count(species_observations$species_name)
 # create output directory 
 if(!dir.exists(output_dir)){
   dir.create(output_dir)
+  
 }
 
 # export table 
