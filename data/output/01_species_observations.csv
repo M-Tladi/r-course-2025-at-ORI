@@ -1,0 +1,6 @@
+filename;device_id;site_id;x;y;srid;timestamp;genus;species_name;species_name_en;behavior;sex;age;diet
+data/input/img/cam001/2025/08/01/cam001_20250801123000.png;cam001;SITE_AB;23.098686;-19.148544;4326;2025-08-01T12:30:00Z;Panthera;Panthera leo;Lion;resting;male;adult;carnivore
+data/input/img/cam001/2025/08/01/cam001_20250801124500.png;cam001;SITE_AB;23.098686;-19.148544;4326;2025-08-01T12:45:00Z;Giraffa;Giraffa camelopardalis;Giraffe;browsing;female;juvenile;herbivore
+data/input/img/cam001/2025/08/02/cam001_20250802103000.png;cam001;SITE_AB;23.098686;-19.148544;4326;2025-08-02T10:30:00Z;Lycaon;Lycaon pictus;African wild dog;running;NA;adult;carnivore
+data/input/img/cam002/2025/08/01/cam002_20250801131500.png;cam002;SITE_AA;23.105089;-19.144622;4326;2025-08-01T13:15:00Z;Panthera;Panthera leo;Lion;hunting;female;adult;carnivore
+data/input/img/cam002/2025/08/03/cam002_20250803120000.png;cam002;SITE_AA;23.105089;-19.144622;4326;2025-08-03T12:00:00Z;Loxodonta;Loxodonta africana;African bush elephant;digging;NA;adult;herbivore
