@@ -39,8 +39,6 @@ install.packages(c(
 git config --global user.name "M-Tladi"
 git config --global user.email "201000042@ub.ac.bw"
 
-install.packages("gitcreds")
-
 # Store your token securely
 gitcreds::gitcreds_set()
 
